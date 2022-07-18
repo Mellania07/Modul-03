@@ -1,5 +1,5 @@
 package id.ac.polbeng.mellania.test_kelas
-
+// Data Class hashCode() and equals() methods
 fun main() {
     val boni = Student("Boni", 21)
     val newBoni = Student("Boni", 21)
